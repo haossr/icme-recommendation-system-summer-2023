@@ -73,6 +73,11 @@ To join the workshop, you'll need a device with a recent web browser and two-way
 
 You do not need to install Python or any other software before the workshop. We will provide more detailed instructions prior to the start to ensure that you are set up and ready to learn.
 
+Our goal is to create an inclusive and supportive learning environment, and we want all students to succeed.
+However, to set you up for success, we also want to clearly communicate the necessary level of prior knowledge and programming skill.
+If you are unsure whether you have the required background, please feel free to reach out for guidance.
+
+
 ## Outcomes
 Workshop attendees will be positioned to leverage their newfound expertise in search and recommendation systems to contribute to industry practices and make informed decisions on the implications of these increasingly prevalent technologies.
 
@@ -81,10 +86,6 @@ Specifically, attendees will:
   * Acquire practical engineering skills essential for efficiently implementing recommendation systems at scale.
   * Learn skills for building recommendation systems for diverse applications, empowering them to contribute to the advancement of the field.
   * Gain insights into the state-of-the-art practices of machine learning within prominent Silicon Valley companies that rely on search and recommendation systems for adding value.
-
-Our goal is to create an inclusive and supportive learning environment, and we want all students to succeed.
-However, to set you up for success, we also want to clearly communicate the necessary level of prior knowledge and programming skill.
-If you are unsure whether you have the required background, please feel free to reach out for guidance.
 
 ## References
 A list of references at varying levels of sophistication are provided later in this description.
