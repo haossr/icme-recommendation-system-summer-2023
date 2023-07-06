@@ -82,7 +82,6 @@ Specifically, attendees will:
   * Learn skills for building recommendation systems for diverse applications, empowering them to contribute to the advancement of the field.
   * Gain insights into the state-of-the-art practices of machine learning within prominent Silicon Valley companies that rely on search and recommendation systems for adding value.
 
-## Additional resources:
 Our goal is to create an inclusive and supportive learning environment, and we want all students to succeed.
 However, to set you up for success, we also want to clearly communicate the necessary level of prior knowledge and programming skill.
 If you are unsure whether you have the required background, please feel free to reach out for guidance.
