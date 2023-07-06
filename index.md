@@ -12,13 +12,6 @@ Additionally, we examine how search can be seen as a specialized form of recomme
 
 In the second session of the workshop, we focus on the efficient implementation of these computations using contemporary distributed computing methods.
 
-Workshop attendees will be positioned to leverage their newfound expertise in search and recommendation systems to contribute to industry practices and make informed decisions on the implications of these increasingly prevalent technologies.
-Specifically, attendees will:
-  * Develop a comprehensive understanding of the evolution of recommendation systems, along with their relationship to search systems. They will grasp the underlying deep learning mechanisms and techniques employed in these systems.
-  * Acquire practical engineering skills essential for efficiently implementing recommendation systems at scale.
-  * Learn skills for building recommendation systems for diverse applications, empowering them to contribute to the advancement of the field.
-  * Gain insights into the state-of-the-art practices of machine learning within prominent Silicon Valley companies that rely on search and recommendation systems for adding value.
-
 ## About the Instructor
 
 ![Hao Sheng](/assets/img/hao.jpg){:style="max-width:30%;"}
@@ -41,43 +34,53 @@ She has interned at Meta, Uber AI, and Microsoft Research.
 
 ## Prerequisites
 This advanced workshop is designed for experienced Python programmers, preferably with recent experience applying neural networks.
+
 Familiarity with deep learning at the level of SWS 11: Introduction to Deep Learning, is expected.
 
 ## Schedule
 
 #### Session 1 (Wednesday, August 9 | 8:00 AM - 11:00 AM PDT)
-  - Recommendation (RS) System History
-  - Explore Recommendation Systems in Daily Life
-    - Sample RS from Tiktok (short video), YouTube (video), Instagram (timeline)
-  - Recommendation System as an ML Problem
-    - What to predict?
-    - What are the inputs?
-    - Why is it hard?
-  - ML Models for Recommendation System
-  - Search Engine System
-    - Crawling
-    - Indexing
-    - Ranking
+- Recommendation (RS) System History
+- Explore Recommendation Systems in Daily Life
+  - Sample RS from Tiktok (short video), YouTube (video), Instagram (timeline)
+- Recommendation System as an ML Problem
+  - What to predict?
+  - What are the inputs?
+  - Why is it hard?
+- ML Models for Recommendation System
+- Search Engine System
+  - Crawling
+  - Indexing
+  - Ranking
   
 #### Session 2 (Thursday, Aug 10 | 8:00 AM - 11:00 AM PDT)
-  - High volume
-    - Distributed training and serving
-    - Pre-computing
-  - Shifting data distribution
-    - Online training
-  - Slow confirmation
-    - Fast emit
-  - Multi-target
-    - Multi-task learning
-  - Cold start
-    - Content understanding
-    - User/Item embedding
-  - Social impact
+- High volume
+  - Distributed training and serving
+  - Pre-computing
+- Shifting data distribution
+  - Online training
+- Slow confirmation
+  - Fast emit
+- Multi-target
+  - Multi-task learning
+- Cold start
+  - Content understanding
+  - User/Item embedding
+- Social impact
 
 ## Requirements
 To join the workshop, you'll need a device with a recent web browser and two-way audio and video access to Zoom. This could be a laptop or desktop computer running any operating system, such as Windows, Mac, or Linux. Participative activities benefit from a larger screen, so joining via a smartphone or tablet may not provide the best learning experience.
 
 You do not need to install Python or any other software before the workshop. We will provide more detailed instructions prior to the start to ensure that you are set up and ready to learn.
+
+## Outcomes
+Workshop attendees will be positioned to leverage their newfound expertise in search and recommendation systems to contribute to industry practices and make informed decisions on the implications of these increasingly prevalent technologies.
+
+Specifically, attendees will:
+  * Develop a comprehensive understanding of the evolution of recommendation systems, along with their relationship to search systems. They will grasp the underlying deep learning mechanisms and techniques employed in these systems.
+  * Acquire practical engineering skills essential for efficiently implementing recommendation systems at scale.
+  * Learn skills for building recommendation systems for diverse applications, empowering them to contribute to the advancement of the field.
+  * Gain insights into the state-of-the-art practices of machine learning within prominent Silicon Valley companies that rely on search and recommendation systems for adding value.
 
 ## Additional resources:
 Our goal is to create an inclusive and supportive learning environment, and we want all students to succeed.
