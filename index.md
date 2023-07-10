@@ -54,7 +54,7 @@ Familiarity with deep learning at the level of SWS 11: Introduction to Deep Lear
     * Indexing
     * Ranking
 
-#### Session 2 (Thursday, Aug 10 | 8:00 AM - 11:00 AM PDT)
+#### Session 2 (Thursday, August 10 | 8:00 AM - 11:00 AM PDT)
 
 * High volume
     * Distributed training and serving
