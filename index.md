@@ -41,34 +41,34 @@ Familiarity with deep learning at the level of SWS 11: Introduction to Deep Lear
 
 #### Session 1 (Wednesday, August 9 | 8:00 AM - 11:00 AM PDT)
 
-- Recommendation (RS) System History
-- Explore Recommendation Systems in Daily Life
-  - Sample RS from Tiktok (short video), YouTube (video), Instagram (timeline)
-- Recommendation System as an ML Problem
-  - What to predict?
-  - What are the inputs?
-  - Why is it hard?
-- ML Models for Recommendation System
-- Search Engine System
-  - Crawling
-  - Indexing
-  - Ranking
-  
+* Recommendation (RS) System History
+* Explore Recommendation Systems in Daily Life
+    * Sample RS from Tiktok (short video), YouTube (video), Instagram (timeline)
+* Recommendation System as an ML Problem
+    * What to predict?
+    * What are the inputs?
+    * Why is it hard?
+* ML Models for Recommendation System
+* Search Engine System
+    * Crawling
+    * Indexing
+    * Ranking
+
 #### Session 2 (Thursday, Aug 10 | 8:00 AM - 11:00 AM PDT)
 
-- High volume
-  - Distributed training and serving
-  - Pre-computing
-- Shifting data distribution
-  - Online training
-- Slow confirmation
-  - Fast emit
-- Multi-target
-  - Multi-task learning
-- Cold start
-  - Content understanding
-  - User/Item embedding
-- Social impact
+* High volume
+    * Distributed training and serving
+    * Pre-computing
+* Shifting data distribution
+    * Online training
+* Slow confirmation
+    * Fast emit
+* Multi-target
+    * Multi-task learning
+* Cold start
+    * Content understanding
+    * User/Item embedding
+* Social impact
 
 ## Requirements
 To join the workshop, you'll need a device with a recent web browser and two-way audio and video access to Zoom. This could be a laptop or desktop computer running any operating system, such as Windows, Mac, or Linux. Participative activities benefit from a larger screen, so joining via a smartphone or tablet may not provide the best learning experience.
