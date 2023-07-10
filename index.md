@@ -40,32 +40,34 @@ Familiarity with deep learning at the level of SWS 11: Introduction to Deep Lear
 ## Syllabus
 
 #### Session 1 (Wednesday, August 9 | 8:00 AM - 11:00 AM PDT)
+
 - Recommendation (RS) System History
 - Explore Recommendation Systems in Daily Life
-      - Sample RS from Tiktok (short video), YouTube (video), Instagram (timeline)
+  - Sample RS from Tiktok (short video), YouTube (video), Instagram (timeline)
 - Recommendation System as an ML Problem
-      - What to predict?
-      - What are the inputs?
-      - Why is it hard?
+  - What to predict?
+  - What are the inputs?
+  - Why is it hard?
 - ML Models for Recommendation System
 - Search Engine System
-      - Crawling
-      - Indexing
-      - Ranking
+  - Crawling
+  - Indexing
+  - Ranking
   
 #### Session 2 (Thursday, Aug 10 | 8:00 AM - 11:00 AM PDT)
+
 - High volume
-      - Distributed training and serving
-      - Pre-computing
+  - Distributed training and serving
+  - Pre-computing
 - Shifting data distribution
-      - Online training
+  - Online training
 - Slow confirmation
-      - Fast emit
+  - Fast emit
 - Multi-target
-      - Multi-task learning
+  - Multi-task learning
 - Cold start
-      - Content understanding
-      - User/Item embedding
+  - Content understanding
+  - User/Item embedding
 - Social impact
 
 ## Requirements
