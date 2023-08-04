@@ -32,7 +32,9 @@ She has interned at Meta, Uber AI, and Microsoft Research.
 
 # Workshop Materials
 
-## Prerequisites
+## Pre-workshop Checklist
+The Zoom link to the course can be found [here](https://stanford.zoom.us/j/94139814708?pwd=dFNWUjQ4emVWMS9LN3o5aGhEc2QrQT09).
+
 This advanced workshop is designed for experienced Python programmers, preferably with recent experience applying neural networks.
 
 Familiarity with deep learning at the level of SWS 11: Introduction to Deep Learning, is expected.
