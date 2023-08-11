@@ -50,27 +50,20 @@ Familiarity with deep learning at the level of SWS 11: Introduction to Deep Lear
     * What to predict?
     * What are the inputs?
     * Why is it hard?
+
+
+Zoom recording Day 1: [Link](https://stanford.zoom.us/rec/share/Jc4B9dc2qzZOOp8mh84Y4aon3ppCJbmIM0QevyOEuddC5hI9Dr7o-BLUUZejOQ_b.3hV_gq-I-IpxaE04?startTime=1691591995000&pwd=YrC82Z4SiWJ5wszwBSj0q2ZZo-MdJwtc)
+
+#### Session 2 (Thursday, August 10 | 8:00 AM - 11:00 AM PDT)
+
 * ML Models for Recommendation System
 * Search Engine System
     * Crawling
     * Indexing
     * Ranking
 
-#### Session 2 (Thursday, August 10 | 8:00 AM - 11:00 AM PDT)
+Zoom recording Day 2: [Link](https://stanford.zoom.us/rec/share/2pDoNuspUG-4EQIxZSJ2q--nAvkBasBoSTN5z5_EvhvVJgmubQu1QupGPz0M2tLX.jC_jvYw9SBffi1Pi?startTime=1691678570000&pwd=ZkLBZ7lMyhALcRFX2q0sG6HZnv8Vpzpl)
 
-* High volume
-    * Distributed training and serving
-    * Pre-computing
-* Shifting data distribution
-    * Online training
-* Slow confirmation
-    * Fast emit
-* Multi-target
-    * Multi-task learning
-* Cold start
-    * Content understanding
-    * User/Item embedding
-* Social impact
 
 ## Requirements
 To join the workshop, you'll need a device with a recent web browser and two-way audio and video access to Zoom. This could be a laptop or desktop computer running any operating system, such as Windows, Mac, or Linux. Participative activities benefit from a larger screen, so joining via a smartphone or tablet may not provide the best learning experience.
