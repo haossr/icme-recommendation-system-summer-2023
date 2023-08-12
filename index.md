@@ -58,6 +58,7 @@ Zoom recording Day 1: [Link](https://stanford.zoom.us/rec/share/Jc4B9dc2qzZOOp8m
 
 #### Session 2 (Thursday, August 10 | 8:00 AM - 11:00 AM PDT)
 
+Day II: Advanced Topics
 * Recap
 * Lecturing: Search Engine System
 * Break-out: Measure the Success of the Recommendation System
