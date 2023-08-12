@@ -43,24 +43,31 @@ Familiarity with deep learning at the level of SWS 11: Introduction to Deep Lear
 
 #### Session 1 (Wednesday, August 9 | 8:00 AM - 11:00 AM PDT)
 
-* Recommendation (RS) System History
-* Explore Recommendation Systems in Daily Life
-    * Sample RS from Tiktok (short video), YouTube (video), Instagram (timeline)
-* Recommendation System as an ML Problem
-    * What to predict?
-    * What are the inputs?
-    * Why is it hard?
-
+Day I: Recommendation Systems 101
+* Introduction
+* Lecturing: The History of Recommendation System
+* Break-out: Recommendation System in Daily Life
+* Lecturing: Recommendation as an ML Problem
+    * User-item rating matrix
+    * Collaborative filtering
+    * Content filtering
+* Lecturing: Evaluate Recommendation Systems
+* Lab: Recommendation System Notebook I
 
 Zoom recording Day 1: [Link](https://stanford.zoom.us/rec/share/Jc4B9dc2qzZOOp8mh84Y4aon3ppCJbmIM0QevyOEuddC5hI9Dr7o-BLUUZejOQ_b.3hV_gq-I-IpxaE04?startTime=1691591995000&pwd=YrC82Z4SiWJ5wszwBSj0q2ZZo-MdJwtc)
 
 #### Session 2 (Thursday, August 10 | 8:00 AM - 11:00 AM PDT)
 
-* ML Models for Recommendation System
-* Search Engine System
-    * Crawling
-    * Indexing
-    * Ranking
+* Recap
+* Lecturing: Search Engine System
+* Break-out: Measure the Success of the Recommendation System
+* Lecturing: Advanced Topics (Part I)
+    * Augment recommendation system with deep learning
+    * Speed up and scale up
+* Lab: Recommendation system notebook II
+* Lecturing: Advanced Topics (Part II)
+    * Recommendation with LLM (Large Language Model)
+    * Social impact
 
 Zoom recording Day 2: [Link](https://stanford.zoom.us/rec/share/2pDoNuspUG-4EQIxZSJ2q--nAvkBasBoSTN5z5_EvhvVJgmubQu1QupGPz0M2tLX.jC_jvYw9SBffi1Pi?startTime=1691678570000&pwd=ZkLBZ7lMyhALcRFX2q0sG6HZnv8Vpzpl)
 
